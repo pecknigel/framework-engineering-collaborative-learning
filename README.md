@@ -30,3 +30,7 @@ These are links that can be useful research as you get in to the heart of what t
 [GitHub - google/incremental-dom: An in-place DOM diffing library](https://github.com/google/incremental-dom)
 
 [React - Virtual DOM and Internals](https://legacy.reactjs.org/docs/faq-internals.html)
+
+[CalDOM JS](https://caldom.org/)
+
+Research: “Reactive UI Frameworks” or “Reactive DOM”
