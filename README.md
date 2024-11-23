@@ -15,6 +15,10 @@ Create a simple library to help with updating the DOM. Try it out with different
 
 Do this before you get in to looking at any of the solutions crafted by other students (easy right now - there are none).
 
+Iterate on your design and the features of your library. Keep going over it and introducing new features or improving what’s there so it works consistently or more effectively.
+
+Think about effective naming that clearly delineates what it does. Write documentation of the interface and how it works.
+
 Find your own approach or at least innovate as much as you can. Nigel can help with this. Be creative and imagine what could be possible to make it all easier and more intuitive when working with your library to create software.
 
 ## Research
