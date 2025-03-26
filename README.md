@@ -1,7 +1,7 @@
 
 # Framework Engineering Collaborative Learning
 
-This repo introduces the Framework Engineering Collaborative Learning program from the [Prescription Free Academy of Web Development and Software Engineering](https://prescriptionfree.academy/).
+This repo introduces the Framework Engineering Collaborative Learning program.
 
 It includes general information and documentation relating to the program, along with links to individual project repos.
 
